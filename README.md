@@ -1,1 +1,1 @@
-# To-Do-list-App
+The To-Do List App is a basic web application that allows users to add, view, complete, and delete tasks. It helps users organize their daily activities and track what needs to be done. This project is created using HTML for the structure, CSS for styling, and JavaScript for functionality.
